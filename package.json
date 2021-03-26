@@ -1,0 +1,16 @@
+{
+  "name": "randomuserapi",
+  "version": "1.0.0",
+  "description": "API que gera nomes e informações de pessoas",
+  "main": "randomUser.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "G Briao",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "faker": "^5.5.0",
+    "node-fetch": "^2.6.1"
+  }
+}
